@@ -1,7 +1,7 @@
 # Pterodactyl Upload Action
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/rexlmanu/pterodactyl-upload-action)
-![GitHub](https://img.shields.io/github/license/rexlmanu/pterodactyl-upload-action)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ServerOpenMC/pterodactyl-upload-action)
+![GitHub](https://img.shields.io/github/license/ServerOpenMC/pterodactyl-upload-action)
 
 This GitHub Action allows you to upload files to multiple Pterodactyl servers with just one action, featuring socket support.
 
