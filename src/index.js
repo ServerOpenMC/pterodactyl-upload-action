@@ -243,6 +243,7 @@ async function uploadFile(serverId, targetFile, buffer) {
         core.error(
           `Upload failed with status ${response?.status}, retrying...`
         );
+        core.debug(`Error response from body: ${JSON.stringify(response?.data)}`);
       }
     } catch (error) {
       core.error(`Upload failed with error ${error}, retrying...`);
